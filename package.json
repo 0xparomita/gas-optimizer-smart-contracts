@@ -1,0 +1,10 @@
+{
+  "name": "gas-optimizer",
+  "version": "1.0.0",
+  "description": "High-efficiency Solidity patterns",
+  "main": "index.js",
+  "dependencies": {
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
